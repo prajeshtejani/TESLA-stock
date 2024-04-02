@@ -1,7 +1,7 @@
 # Tesla Stock's Price Prediction
 
 # Introduction:
-    This Python script employs decision tree regression to predict stock prices using historical data of Tesla (TSLA). It utilizes the scikit-learn library for machine learning tasks and pandas for data handling. The dataset 'TSLA.csv' contains relevant information like opening, high, low prices, and volume.
+This Python script employs decision tree regression to predict stock prices using historical data of Tesla (TSLA). It utilizes the scikit-learn library for machine learning tasks and pandas for data handling. The dataset 'TSLA.csv' contains relevant information like opening, high, low prices, and volume.
 
 # Code Overview:
   - Importing Libraries:
@@ -25,22 +25,22 @@
       Predicted values (y_pred) are obtained.
 
 # Conclusion:
-      The decision tree regression model is built and evaluated for predicting stock prices based on historical data. Further improvements in the model's accuracy can be explored by tuning hyperparameters or trying different regression algorithms. Additionally, incorporating more features or utilizing advanced techniques may enhance prediction performance.
+The decision tree regression model is built and evaluated for predicting stock prices based on historical data. Further improvements in the model's accuracy can be explored by tuning hyperparameters or trying different regression algorithms. Additionally, incorporating more features or utilizing advanced techniques may enhance prediction performance.
 # Dependencies:
-    - NumPy
-    - Matplotlib
-    - Pandas
-    - scikit-learn
+ - NumPy
+ - Matplotlib
+ - Pandas
+ - scikit-learn
 # Instructions:
-    - Ensure the 'TSLA.csv' file is present in the working directory.
-    - Install the required dependencies if not already installed.
-    - Run the script to train the model and make predictions.
-    - Adjust parameters or explore other algorithms for potential improvements.
+ - Ensure the 'TSLA.csv' file is present in the working directory.
+ - Install the required dependencies if not already installed.
+ - Run the script to train the model and make predictions.
+ - Adjust parameters or explore other algorithms for potential improvements.
 # Author:
 Prajesh Tejani
 
 # References:
-    scikit-learn documentation: https://scikit-learn.org/stable/
-    Pandas documentation: https://pandas.pydata.org/docs/
-    NumPy documentation: https://numpy.org/doc/
+scikit-learn documentation: https://scikit-learn.org/stable/
+Pandas documentation: https://pandas.pydata.org/docs/
+NumPy documentation: https://numpy.org/doc/
       
